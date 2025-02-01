@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Yi!  
-🚀 **Aspiring Business Analyst | Bridging Business & Technology**  
+🚀 **Aspiring Business Analyst | Bridging Business & Technology** 
 
-I come from a background in **the cultural industry**, with 10+ years of experience in musical production, theatre management, and arts administration**. Throughout my career, I have been involved in **global operations and team leadership**, bringing large-scale productions to life and managing cross-functional teams. Now, I'm transitioning into **Business Analysis and data-driven decision-making**, currently have just completed my **Master of Business Information Systems (MBIS)** in New Zealand.  
+I come from a background in **the cultural industry**, with 10+ years of experience in musical production, theatre management, and arts administration. Throughout my career, I have been involved in **global operations and team leadership**, bringing large-scale productions to life and managing cross-functional teams. Now, I'm transitioning into **Business Analysis and data-driven decision-making**, currently have just completed my **Master of Business Information Systems (MBIS)** in New Zealand.  
 
 ### 🌱 What I'm Working On  
 🔹 Self-Learning **SQL, Python, and data visualisation**  
